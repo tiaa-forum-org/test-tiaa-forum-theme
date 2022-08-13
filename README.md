@@ -1,2 +1,2 @@
 # tiaa-forum-theme
-Discourse theme used for production forum.
+Discourse theme used for testing forum.
